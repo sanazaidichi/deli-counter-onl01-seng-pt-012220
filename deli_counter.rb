@@ -1,6 +1,12 @@
 katz_deli = []
 
 def line(katz_deli)
-if there is nobody in line
+if katz_deli.length == 0
   puts "The line is currently empty."
+else katz_deli.length > 0 
+  puts 
+  
+
+  end 
 end 
+
